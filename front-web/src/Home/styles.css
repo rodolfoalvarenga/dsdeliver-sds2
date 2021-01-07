@@ -86,3 +86,10 @@
     width: 80%;
   }
 }
+
+@media (max-height: 700px) {
+  .home-container {
+    height: auto;
+    margin-bottom: 30px;
+  }
+}
